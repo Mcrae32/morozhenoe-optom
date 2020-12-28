@@ -1,0 +1,116 @@
+.filter-catalog {
+    margin: 0 0 25px 0;
+    padding: 5px 0;
+}
+
+.punkt, .punkt.logo {
+    float: left;
+    width: 21.33%;
+    margin: 0 1.8% 5px;
+    text-align: center;
+    color: #797878;
+    font-family: 'PT Sans Narrow', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    border: 1px solid #fdc2c2;
+    border-radius: 10px;
+    padding: 2% 1px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    height: 120px;
+    background-color: white;
+}
+
+.punkt p {
+    padding: 0;
+    line-height: 1.1em;
+    font-weight: bold;
+}
+
+.filter-catalog a:hover .punkt, .filter-catalog a:focus .punkt, .filter-catalog a:active .punkt, .filter-catalog a.active .punkt {
+    background-color: white;
+    color: #E31A4D;
+    border: 2px solid red;
+    padding: 1px;
+}
+
+.section-filter h4 {
+    font-size: 1.3em;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+.section-filter {
+    height: 195px;
+    padding: 5px 13px;
+    background-color: #fff;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.section-filter.s2 {
+    height: 85px;
+}
+
+.positions-wrap .positions-block {
+    background: #ffffff;
+    border: 10px solid #e7d9d3;
+    min-height: auto;
+}
+
+.part-wrap .positions-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+}
+
+.part-wrap .positions-block .img-block {
+    padding: 0;
+    margin-bottom: 0;
+    align-self: center;
+}
+
+.part-wrap .positions-block figure {
+    margin: 0 0 1rem;
+}
+
+.part-wrap .positions-block p {
+    margin: 0px 0px 15px;
+}
+
+.part-wrap .punkt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.part-wrap .punkt p {
+    font-size: 1.2em;
+    margin: 0 0 2px;
+}
+
+.part-wrap a {
+    text-decoration: none;
+}
+/*
+.punkt-mobile.logo-filter {
+    height: 60px;
+}*/
+
+
+
+@media (max-width: 991px) {
+    #toppage.heading-wrapper {
+        margin-bottom: 17px;
+        background-size: 285%;
+        background-position-y: 0%;
+    }
+}
+
