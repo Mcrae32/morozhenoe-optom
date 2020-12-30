@@ -74,10 +74,10 @@ h1 span {
 }
 
 .wrap-header:after {
-	background: url('images/texture2.jpg'), #EBE8E0;
-	content: " ";
-	display: block;
-	height: 20px;
+	background: #f2f2f2;
+    content: " ";
+    display: block;
+    height: 10px;
 }
 
 .logo-wrap {

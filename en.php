@@ -97,10 +97,11 @@
 								<div class="logo en"></div>
 							</div>
 						</div>
-						<div class="col-xs-5 col-md-4 col-lg-3">
+						<div class="col-xs-5 col-md-4 col-lg-4">
 							<div class="phone-number">
 								<p>Moscow - <strong>+7 915 338 59 78</strong></p>
-								<p>The Moscow Region - <strong>+7 915 338 59 78</strong></p>
+								<p>The Moscow Region (South) - <strong>+7 926 828 32 43</strong></p>
+								<p>The Moscow Region (North) - <strong>+7 919 103 39 08</strong></p>
 								<p>Regions - <strong><a target="_blank" href="https://www.iceberry.ru/contacts/">link</a></strong></p>
 							</div>
 						</div>

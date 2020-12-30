@@ -11,7 +11,6 @@
     <meta property="og:description" content="Мороженое оптом в Москве и МО">
     <meta name="keywords" content="Мороженое оптом в Москве, продажа мороженое оптом, айсберри мороженое, весовое мороженое, мороженое HoReCa, мороженое в лотках, весовое мороженое, мороженое от производителя, мороженое стаканчик оптом, купить мороженое оптом, фруктовое мороженое, мороженое для кафе оптом">
     <meta name="description" content="Мороженое для бизнеса оптом и мелким оптом, большой выбор мороженого">
-
 	
 	<meta name="viewport" content="width=768">
 
@@ -97,10 +96,11 @@
 								<div class="logo"></div>
 							</div>
 						</div>
-						<div class="col-xs-5 col-md-4 col-lg-3">
+						<div class="col-xs-5 col-md-4 col-lg-4">
 							<div class="phone-number">
 								<p>Москва - <strong>+7 915 338 59 78</strong></p>
-								<p>Моск. обл. - <strong>+7 915 338 59 78</strong></p>
+								<p>Моск. обл. (юг) - <strong>+7 926 828 32 43</strong></p>
+								<p>Моск. обл. (север) - <strong>+7 919 103 39 08</strong></p>
 								<p>Регионы - <strong><a target="_blank" href="https://www.iceberry.ru/contacts/">подробнее</a></strong></p>
 							</div>
 						</div>

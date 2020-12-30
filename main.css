@@ -74,10 +74,10 @@ h1 span {
 }
 
 .wrap-header:after {
-	background: url('images/texture2.jpg'), #EBE8E0;
-	content: " ";
-	display: block;
-	height: 20px;
+	background: #f2f2f2;
+    content: " ";
+    display: block;
+    height: 10px;
 }
 
 .logo-wrap {
@@ -105,7 +105,7 @@ h1 span {
 
 .phone-number {
 	text-align: right;
-	font-size: 1.0em;
+	font-size: 0.9em;
 	font-family: "Conv_AGOPUS~4", serif;
 	padding-top: 1.5em;
 	line-height: 0.8em;
